@@ -1,0 +1,8 @@
+{
+  "name": "cods",
+  "version": "0.0.1",
+  "description": "Component-oriented design style",
+  "repository": "https://github.com/jyrobin/cods",
+  "author": "Jing-Ying Chen <jy.robin.chen@gmail.com>",
+  "license": "MIT"
+}

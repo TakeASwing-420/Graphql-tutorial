@@ -1,0 +1,24 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.10.4",
+    "apollo-server": "^3.13.0",
+    "body-parser": "^1.20.2",
+    "cods": "^0.0.1",
+    "graphql": "^16.8.2",
+    "graphql-subscriptions": "^2.0.0",
+    "graphql-ws": "^5.16.0",
+    "ws": "^8.17.0"
+  }
+}
